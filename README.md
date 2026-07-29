@@ -32,12 +32,17 @@ Integration and Post Classification Filters of LULC data:
 
 ## 📊 Analysis
 
-Tools for assessing the accuracy of our data products (under development):
+Tools for assessing the accuracy of our data products (🚧 under development 🚧):
 
 - [**Accuracy**](https://github.com/mapbiomas/mexico-accuracy)
 
 ## 🗄️ Assets
 
-- [**MapBiomas Mexico Collections**](https://github.com/mapbiomas/.github/blob/main/assets/mexico.md)
+- [**MapBiomas Mexico Collection**](https://code.earthengine.google.com/?asset=projects/mapbiomas-mexico/assets/LAND-COVER/COLLECTION-1/GENERAL/classification-ft/MEX_integration_natstable_lagunas_ft_v1)
 
-📌 *This repository structure is under continuous improvement.*
+## 🗺️ Mosaics
+
+- [**Annual Landsat Mosaics**](https://code.earthengine.google.com/?asset=projects/mapbiomas-mosaics/assets/LANDSAT/LULC/MEXICO/mosaics-1)
+- [**Annual Landsat Mosaics script**](https://github.com/mapbiomas/countries-mosaics/blob/main/countries/mapbiomas_Mexico_mosaics_collection_1_landsat_v1.py)
+
+📌 *🚧 This repository is under continuous development. 🚧*
