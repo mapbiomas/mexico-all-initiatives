@@ -1,3 +1,4 @@
+// DEPRECATED: Part of the MapBiomas Mexico Collection 1.0 data flow; retained for historical reference.
 // Versión script 20/07/2026
 // National integration of the 5 physiographic-region classifications into a
 // single mosaic (1985-2025), using a hard clip per region (no qualityMosaic)

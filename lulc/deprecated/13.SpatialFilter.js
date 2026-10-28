@@ -1,3 +1,4 @@
+// DEPRECATED: Part of the MapBiomas Mexico Collection 1.0 data flow; retained for historical reference.
 // Versión script 20/07/2026
 // 8. Spatial filter (salt & pepper) - NATIONAL PRODUCT
 // Input:  MEX_integration_alequech_gapfill_temporal_v1

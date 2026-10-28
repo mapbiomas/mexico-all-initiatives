@@ -1,3 +1,4 @@
+// DEPRECATED: Part of the MapBiomas Mexico Collection 1.0 data flow; retained for historical reference.
 // Versión script 20/07/2026
 // Natural vegetation consolidation (mode-weighted)
 // Input:  MEX_integration_alequech_gapfill_temporal_spatial_v1
