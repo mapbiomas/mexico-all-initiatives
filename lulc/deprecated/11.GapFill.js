@@ -1,3 +1,4 @@
+// DEPRECATED: Part of the MapBiomas Mexico Collection 1.0 data flow; retained for historical reference.
 // Versión script 20/07/2026
 // Cross-cutting themes integration (Urban + Mangrove) + Gapfill
 // National product MapBiomas México - Collection 1
